@@ -158,5 +158,5 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed by [Your Name]  
+Developed by Hirula Abesingha 
 Feel free to fork and improve!
